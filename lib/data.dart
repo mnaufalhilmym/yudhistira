@@ -1,0 +1,88 @@
+import 'models/item.dart';
+
+const DATA = const [
+  Item(
+    id: '1',
+    title: 'Lorem Ipsum 1',
+    description: 'Lorem Ipsum',
+    photo: 'assets/images/pattrick.jpg',
+    price: '9000000',
+  ),
+  Item(
+    id: '2',
+    title: 'Lorem Ipsum 2',
+    description: 'Lorem Ipsum',
+    photo: 'assets/images/pattrick.jpg',
+    price: '9000000',
+  ),
+  Item(
+    id: '3',
+    title: 'Lorem Ipsum 3',
+    description: 'Lorem Ipsum',
+    photo: 'assets/images/pattrick.jpg',
+    price: '9000000',
+  ),
+  Item(
+    id: '4',
+    title: 'Lorem Ipsum 4',
+    description: 'Lorem Ipsum',
+    photo: 'assets/images/pattrick.jpg',
+    price: '9000000',
+  ),
+  Item(
+    id: '5',
+    title: 'Lorem Ipsum 5',
+    description: 'Lorem Ipsum',
+    photo: 'assets/images/pattrick.jpg',
+    price: '9000000',
+  ),
+  Item(
+    id: '6',
+    title: 'Lorem Ipsum 6',
+    description: 'Lorem Ipsum',
+    photo: 'assets/images/pattrick.jpg',
+    price: '9000000',
+  ),
+  Item(
+    id: '7',
+    title: 'Lorem Ipsum 7',
+    description: 'Lorem Ipsum',
+    photo: 'assets/images/pattrick.jpg',
+    price: '9000000',
+  ),
+  Item(
+    id: '8',
+    title: 'Lorem Ipsum 8',
+    description: 'Lorem Ipsum',
+    photo: 'assets/images/pattrick.jpg',
+    price: '9000000',
+  ),
+  Item(
+    id: '9',
+    title: 'Lorem Ipsum 9',
+    description: 'Lorem Ipsum',
+    photo: 'assets/images/pattrick.jpg',
+    price: '9000000',
+  ),
+  Item(
+    id: '10',
+    title: 'Lorem Ipsum 10',
+    description: 'Lorem Ipsum',
+    photo: 'assets/images/pattrick.jpg',
+    price: '9000000',
+  ),
+  Item(
+    id: '11',
+    title: 'Lorem Ipsum 11',
+    description: 'Lorem Ipsum',
+    photo: 'assets/images/pattrick.jpg',
+    price: '9000000',
+  ),
+  Item(
+    id: '12',
+    title: 'Lorem Ipsum 12',
+    description: 'Lorem Ipsum',
+    photo: 'assets/images/pattrick.jpg',
+    price: '9000000',
+  ),
+];
