@@ -60,6 +60,7 @@ class HomeScreen extends StatelessWidget {
                                 ),
                               ),
                               Row(
+                                mainAxisAlignment: MainAxisAlignment.center,
                                 children: [
                                   Flexible(
                                     child: Container(
@@ -68,8 +69,10 @@ class HomeScreen extends StatelessWidget {
                                         children: [
                                           Container(
                                               height: 80,
-                                              margin: EdgeInsets.only(bottom: 5),
-                                              child: Image.asset('assets/images/accessories.png')),
+                                              margin:
+                                                  EdgeInsets.only(bottom: 5),
+                                              child: Image.asset(
+                                                  'assets/images/accessories.png')),
                                           Text('Accessories')
                                         ],
                                       ),
@@ -82,8 +85,10 @@ class HomeScreen extends StatelessWidget {
                                         children: [
                                           Container(
                                               height: 80,
-                                              margin: EdgeInsets.only(bottom: 5),
-                                              child: Image.asset('assets/images/decor.png')),
+                                              margin:
+                                                  EdgeInsets.only(bottom: 5),
+                                              child: Image.asset(
+                                                  'assets/images/decor.png')),
                                           Text('Decor')
                                         ],
                                       ),
@@ -96,7 +101,8 @@ class HomeScreen extends StatelessWidget {
                                         children: [
                                           Container(
                                               height: 80,
-                                              margin: EdgeInsets.only(bottom: 5),
+                                              margin:
+                                                  EdgeInsets.only(bottom: 5),
                                               child: Image.asset(
                                                   'assets/images/wear.png')),
                                           Text('Wear')
@@ -111,8 +117,10 @@ class HomeScreen extends StatelessWidget {
                                         children: [
                                           Container(
                                               height: 80,
-                                              margin: EdgeInsets.only(bottom: 5),
-                                              child: Image.asset('assets/images/furniture.png')),
+                                              margin:
+                                                  EdgeInsets.only(bottom: 5),
+                                              child: Image.asset(
+                                                  'assets/images/furniture.png')),
                                           Text('Furniture')
                                         ],
                                       ),
